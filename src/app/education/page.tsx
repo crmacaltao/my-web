@@ -9,7 +9,7 @@ export default function Education() {
         <h1 className="text-3xl font-bold mb-6">Education</h1>
 
         <ul className="list-disc pl-6 space-y-3 text-lg">
-          <li>Pili Parochial School – Kindergarten</li>
+          <li>Pili Parochial School – Prep</li>
           <li>Montessori Children’s House of Learning (Pili) – Elementary</li>
           <li>Universidad de Sta. Isabel – High School / Senior High School</li>
           <li>BS in Civil Engineering – Ateneo de Naga University (2 years)</li>
