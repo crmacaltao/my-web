@@ -28,7 +28,7 @@ export default function Home() {
           {/* Rickroll Button */}
           <Button asChild size="lg" variant="secondary">
             <a 
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              href="https://streamable.com/lf027o"
               target="_blank"
             >
               Click this to see a magic happen ✨
