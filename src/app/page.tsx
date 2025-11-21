@@ -37,7 +37,7 @@ export default function Home() {
           </h1>
 
           <p className="max-w-xl text-lg text-zinc-700 dark:text-zinc-700 mb-6"> 
-            <strong>Also known as Ryozaki Vice-Master of the Nightshade guild.</strong>
+            <strong>Also known as "Ryozaki" Vice-Master of the Nightshade guild.</strong>
           </p>
 
           <div className="flex flex-col gap-4">
